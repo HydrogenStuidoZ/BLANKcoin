@@ -1,14 +1,14 @@
-StartCOIN [START] integration/staging tree
+BLANKcoin [START] integration/staging tree
 ==========================================
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
-Copyright (c) 	   2014 StartJOIN
+Copyright (c) 	   2014 BLANKcoin
 
-What is StartCOIN?
+What is BlankCoin?
 ----------------
 
-StartCOIN is the cryptocurrency for StartJOIN.com
+BLANKcoin is the cryptocurrency
 
 License
 -------
